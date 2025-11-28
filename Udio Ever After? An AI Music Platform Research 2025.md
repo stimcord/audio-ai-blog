@@ -1,4 +1,4 @@
-![[output/attachment/Udio Ever After.jpg]]
+![Udio Ever After Header](assets/Udio-Ever-After-Header.jpg)
 The game where the one with the most money wins. Image created with [NightCafe](https://creator.nightcafe.studio/).
 
 # Udio Ever After? An AI Music Platform Research 2025
